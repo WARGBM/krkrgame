@@ -1,3 +1,2 @@
 # krkrgame
-
-wargbm.github.io/krkrgame
+[高压合集](wargbm.github.io/krkrgame "网站")
